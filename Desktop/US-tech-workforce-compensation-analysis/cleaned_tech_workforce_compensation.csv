@@ -1,0 +1,712 @@
+City,OCC_TITLE,A_MEDIAN,TOT_EMP,Cost of Living Index,Rent Index,Local Purchasing Power Index
+"Atlanta, GA",Computer and Information Systems Managers,171360.0,13500,71.7,42.8,169.6
+"Atlanta, GA",Computer and Mathematical Occupations,105370.0,118670,71.7,42.8,169.6
+"Atlanta, GA",Computer Systems Analysts,108570.0,8750,71.7,42.8,169.6
+"Atlanta, GA",Information Security Analysts,126880.0,4940,71.7,42.8,169.6
+"Atlanta, GA",Computer and Information Research Scientists,124150.0,100,71.7,42.8,169.6
+"Atlanta, GA",Computer Network Support Specialists,85010.0,2730,71.7,42.8,169.6
+"Atlanta, GA",Computer User Support Specialists,59510.0,17240,71.7,42.8,169.6
+"Atlanta, GA",Computer Network Architects,134880.0,4730,71.7,42.8,169.6
+"Atlanta, GA",Database Administrators,104790.0,2170,71.7,42.8,169.6
+"Atlanta, GA",Database Architects,135280.0,2390,71.7,42.8,169.6
+"Atlanta, GA",Network and Computer Systems Administrators,98240.0,6190,71.7,42.8,169.6
+"Atlanta, GA",Computer Programmers,97970.0,1390,71.7,42.8,169.6
+"Atlanta, GA",Software Developers,130830.0,35900,71.7,42.8,169.6
+"Atlanta, GA",Software Quality Assurance Analysts and Testers,94120.0,6270,71.7,42.8,169.6
+"Atlanta, GA",Web Developers,84260.0,1070,71.7,42.8,169.6
+"Atlanta, GA","Computer Occupations, All Other",102770.0,12330,71.7,42.8,169.6
+"Atlanta, GA",Operations Research Analysts,74880.0,3300,71.7,42.8,169.6
+"Atlanta, GA",Data Scientists,104480.0,5940,71.7,42.8,169.6
+"Atlanta, GA",Computer Hardware Engineers,122870.0,360,71.7,42.8,169.6
+"Austin, TX",Computer and Information Systems Managers,173300.0,10650,61.7,50.1,163.7
+"Austin, TX",Computer and Mathematical Occupations,108150.0,79720,61.7,50.1,163.7
+"Austin, TX",Computer Systems Analysts,101550.0,8310,61.7,50.1,163.7
+"Austin, TX",Information Security Analysts,121880.0,1870,61.7,50.1,163.7
+"Austin, TX",Computer and Information Research Scientists,112760.0,340,61.7,50.1,163.7
+"Austin, TX",Computer Network Support Specialists,61590.0,1810,61.7,50.1,163.7
+"Austin, TX",Computer User Support Specialists,59740.0,8520,61.7,50.1,163.7
+"Austin, TX",Computer Network Architects,132790.0,1930,61.7,50.1,163.7
+"Austin, TX",Database Administrators,114050.0,1130,61.7,50.1,163.7
+"Austin, TX",Database Architects,139010.0,920,61.7,50.1,163.7
+"Austin, TX",Network and Computer Systems Administrators,100970.0,4880,61.7,50.1,163.7
+"Austin, TX",Computer Programmers,84140.0,1160,61.7,50.1,163.7
+"Austin, TX",Software Developers,133070.0,28210,61.7,50.1,163.7
+"Austin, TX",Software Quality Assurance Analysts and Testers,102990.0,3110,61.7,50.1,163.7
+"Austin, TX",Web Developers,84580.0,960,61.7,50.1,163.7
+"Austin, TX","Computer Occupations, All Other",124150.0,10170,61.7,50.1,163.7
+"Austin, TX",Operations Research Analysts,83990.0,1510,61.7,50.1,163.7
+"Austin, TX",Data Scientists,122440.0,3100,61.7,50.1,163.7
+"Austin, TX",Computer Hardware Engineers,150630.0,720,61.7,50.1,163.7
+"Baltimore, MD",Computer and Information Systems Managers,173130.0,7380,65.8,41.5,133.7
+"Baltimore, MD",Computer and Mathematical Occupations,127510.0,64060,65.8,41.5,133.7
+"Baltimore, MD",Computer Systems Analysts,105920.0,6090,65.8,41.5,133.7
+"Baltimore, MD",Information Security Analysts,136050.0,4370,65.8,41.5,133.7
+"Baltimore, MD",Computer and Information Research Scientists,152780.0,1040,65.8,41.5,133.7
+"Baltimore, MD",Computer Network Support Specialists,104130.0,4720,65.8,41.5,133.7
+"Baltimore, MD",Computer User Support Specialists,63740.0,4300,65.8,41.5,133.7
+"Baltimore, MD",Computer Network Architects,143260.0,2440,65.8,41.5,133.7
+"Baltimore, MD",Database Administrators,119990.0,1100,65.8,41.5,133.7
+"Baltimore, MD",Database Architects,132750.0,500,65.8,41.5,133.7
+"Baltimore, MD",Network and Computer Systems Administrators,119150.0,4270,65.8,41.5,133.7
+"Baltimore, MD",Computer Programmers,103430.0,910,65.8,41.5,133.7
+"Baltimore, MD",Software Developers,137350.0,16620,65.8,41.5,133.7
+"Baltimore, MD",Software Quality Assurance Analysts and Testers,127940.0,3270,65.8,41.5,133.7
+"Baltimore, MD",Web Developers,115650.0,1030,65.8,41.5,133.7
+"Baltimore, MD","Computer Occupations, All Other",133680.0,9110,65.8,41.5,133.7
+"Baltimore, MD",Operations Research Analysts,100100.0,1530,65.8,41.5,133.7
+"Baltimore, MD",Data Scientists,123090.0,1310,65.8,41.5,133.7
+"Baltimore, MD",Computer Hardware Engineers,153340.0,840,65.8,41.5,133.7
+"Boise City, ID",Computer and Information Systems Managers,156460.0,930,60.6,35.6,152.5
+"Boise City, ID",Computer and Mathematical Occupations,92460.0,10520,60.6,35.6,152.5
+"Boise City, ID",Computer Systems Analysts,83600.0,1070,60.6,35.6,152.5
+"Boise City, ID",Information Security Analysts,123310.0,360,60.6,35.6,152.5
+"Boise City, ID",Computer and Information Research Scientists,169340.0,**,60.6,35.6,152.5
+"Boise City, ID",Computer Network Support Specialists,67350.0,330,60.6,35.6,152.5
+"Boise City, ID",Computer User Support Specialists,51370.0,1800,60.6,35.6,152.5
+"Boise City, ID",Computer Network Architects,110500.0,710,60.6,35.6,152.5
+"Boise City, ID",Database Administrators,81390.0,100,60.6,35.6,152.5
+"Boise City, ID",Database Architects,155660.0,170,60.6,35.6,152.5
+"Boise City, ID",Network and Computer Systems Administrators,92960.0,460,60.6,35.6,152.5
+"Boise City, ID",Computer Programmers,80900.0,100,60.6,35.6,152.5
+"Boise City, ID",Software Developers,112230.0,2820,60.6,35.6,152.5
+"Boise City, ID",Software Quality Assurance Analysts and Testers,66610.0,340,60.6,35.6,152.5
+"Boise City, ID",Web Developers,87580.0,110,60.6,35.6,152.5
+"Boise City, ID","Computer Occupations, All Other",105730.0,840,60.6,35.6,152.5
+"Boise City, ID",Operations Research Analysts,71850.0,260,60.6,35.6,152.5
+"Boise City, ID",Data Scientists,103170.0,590,60.6,35.6,152.5
+"Boise City, ID",Computer Hardware Engineers,127880.0,**,60.6,35.6,152.5
+"Boston, MA",Computer and Information Systems Managers,207150.0,22280,83.7,75.2,127.3
+"Boston, MA",Computer and Mathematical Occupations,128390.0,132320,83.7,75.2,127.3
+"Boston, MA",Computer Systems Analysts,123550.0,14160,83.7,75.2,127.3
+"Boston, MA",Information Security Analysts,132170.0,4870,83.7,75.2,127.3
+"Boston, MA",Computer and Information Research Scientists,167300.0,1520,83.7,75.2,127.3
+"Boston, MA",Computer Network Support Specialists,86290.0,1860,83.7,75.2,127.3
+"Boston, MA",Computer User Support Specialists,77750.0,15640,83.7,75.2,127.3
+"Boston, MA",Computer Network Architects,141020.0,4660,83.7,75.2,127.3
+"Boston, MA",Database Administrators,123710.0,1600,83.7,75.2,127.3
+"Boston, MA",Database Architects,162310.0,1430,83.7,75.2,127.3
+"Boston, MA",Network and Computer Systems Administrators,106690.0,6290,83.7,75.2,127.3
+"Boston, MA",Computer Programmers,115190.0,2610,83.7,75.2,127.3
+"Boston, MA",Software Developers,154240.0,48200,83.7,75.2,127.3
+"Boston, MA",Software Quality Assurance Analysts and Testers,125440.0,5700,83.7,75.2,127.3
+"Boston, MA",Web Developers,117560.0,1510,83.7,75.2,127.3
+"Boston, MA","Computer Occupations, All Other",106430.0,4880,83.7,75.2,127.3
+"Boston, MA",Operations Research Analysts,92470.0,4110,83.7,75.2,127.3
+"Boston, MA",Data Scientists,131830.0,8220,83.7,75.2,127.3
+"Boston, MA",Computer Hardware Engineers,170570.0,2960,83.7,75.2,127.3
+"Charlotte, NC",Computer and Information Systems Managers,172100.0,7580,70.0,49.0,136.7
+"Charlotte, NC",Computer and Mathematical Occupations,116020.0,60550,70.0,49.0,136.7
+"Charlotte, NC",Computer Systems Analysts,110020.0,9290,70.0,49.0,136.7
+"Charlotte, NC",Information Security Analysts,127840.0,2130,70.0,49.0,136.7
+"Charlotte, NC",Computer and Information Research Scientists,100670.0,120,70.0,49.0,136.7
+"Charlotte, NC",Computer Network Support Specialists,65380.0,**,70.0,49.0,136.7
+"Charlotte, NC",Computer User Support Specialists,61250.0,6320,70.0,49.0,136.7
+"Charlotte, NC",Computer Network Architects,129640.0,2530,70.0,49.0,136.7
+"Charlotte, NC",Database Administrators,109940.0,**,70.0,49.0,136.7
+"Charlotte, NC",Database Architects,138480.0,1660,70.0,49.0,136.7
+"Charlotte, NC",Network and Computer Systems Administrators,98350.0,3390,70.0,49.0,136.7
+"Charlotte, NC",Computer Programmers,87260.0,760,70.0,49.0,136.7
+"Charlotte, NC",Software Developers,132100.0,20010,70.0,49.0,136.7
+"Charlotte, NC",Software Quality Assurance Analysts and Testers,104410.0,2550,70.0,49.0,136.7
+"Charlotte, NC",Web Developers,96110.0,550,70.0,49.0,136.7
+"Charlotte, NC","Computer Occupations, All Other",110620.0,3020,70.0,49.0,136.7
+"Charlotte, NC",Operations Research Analysts,101750.0,1340,70.0,49.0,136.7
+"Charlotte, NC",Data Scientists,131110.0,3870,70.0,49.0,136.7
+"Charlotte, NC",Computer Hardware Engineers,117790.0,280,70.0,49.0,136.7
+"Chicago, IL",Computer and Information Systems Managers,168230.0,21760,73.2,54.3,136.9
+"Chicago, IL",Computer and Mathematical Occupations,102410.0,131400,73.2,54.3,136.9
+"Chicago, IL",Computer Systems Analysts,99510.0,15940,73.2,54.3,136.9
+"Chicago, IL",Information Security Analysts,116520.0,3460,73.2,54.3,136.9
+"Chicago, IL",Computer and Information Research Scientists,135120.0,230,73.2,54.3,136.9
+"Chicago, IL",Computer Network Support Specialists,69200.0,5730,73.2,54.3,136.9
+"Chicago, IL",Computer User Support Specialists,59570.0,18330,73.2,54.3,136.9
+"Chicago, IL",Computer Network Architects,140760.0,4880,73.2,54.3,136.9
+"Chicago, IL",Database Administrators,103700.0,1830,73.2,54.3,136.9
+"Chicago, IL",Database Architects,134900.0,1260,73.2,54.3,136.9
+"Chicago, IL",Network and Computer Systems Administrators,98790.0,7370,73.2,54.3,136.9
+"Chicago, IL",Computer Programmers,90470.0,**,73.2,54.3,136.9
+"Chicago, IL",Software Developers,130030.0,41320,73.2,54.3,136.9
+"Chicago, IL",Software Quality Assurance Analysts and Testers,102360.0,5410,73.2,54.3,136.9
+"Chicago, IL",Web Developers,100730.0,1960,73.2,54.3,136.9
+"Chicago, IL","Computer Occupations, All Other",102080.0,8390,73.2,54.3,136.9
+"Chicago, IL",Operations Research Analysts,99890.0,3560,73.2,54.3,136.9
+"Chicago, IL",Data Scientists,112640.0,5840,73.2,54.3,136.9
+"Chicago, IL",Computer Hardware Engineers,107720.0,1150,73.2,54.3,136.9
+"Cincinnati, OH-KY",Computer and Information Systems Managers,166230.0,3160,54.6,35.0,161.5
+"Cincinnati, OH-KY",Computer and Mathematical Occupations,98780.0,30880,54.6,35.0,161.5
+"Cincinnati, OH-KY",Computer Systems Analysts,101270.0,3220,54.6,35.0,161.5
+"Cincinnati, OH-KY",Information Security Analysts,108000.0,1210,54.6,35.0,161.5
+"Cincinnati, OH-KY",Computer Network Support Specialists,65580.0,1600,54.6,35.0,161.5
+"Cincinnati, OH-KY",Computer User Support Specialists,53360.0,4720,54.6,35.0,161.5
+"Cincinnati, OH-KY",Computer Network Architects,128910.0,1240,54.6,35.0,161.5
+"Cincinnati, OH-KY",Database Administrators,100510.0,380,54.6,35.0,161.5
+"Cincinnati, OH-KY",Database Architects,130400.0,490,54.6,35.0,161.5
+"Cincinnati, OH-KY",Network and Computer Systems Administrators,98690.0,3250,54.6,35.0,161.5
+"Cincinnati, OH-KY",Computer Programmers,119900.0,550,54.6,35.0,161.5
+"Cincinnati, OH-KY",Software Developers,113240.0,9160,54.6,35.0,161.5
+"Cincinnati, OH-KY",Software Quality Assurance Analysts and Testers,83960.0,950,54.6,35.0,161.5
+"Cincinnati, OH-KY",Web Developers,91350.0,320,54.6,35.0,161.5
+"Cincinnati, OH-KY","Computer Occupations, All Other",96620.0,830,54.6,35.0,161.5
+"Cincinnati, OH-KY",Operations Research Analysts,105840.0,500,54.6,35.0,161.5
+"Cincinnati, OH-KY",Data Scientists,99350.0,1510,54.6,35.0,161.5
+"Cincinnati, OH-KY",Computer Hardware Engineers,105880.0,**,54.6,35.0,161.5
+"Columbus, OH",Computer and Information Systems Managers,166320.0,3460,66.8,37.1,131.0
+"Columbus, OH",Computer and Mathematical Occupations,100870.0,34530,66.8,37.1,131.0
+"Columbus, OH",Computer Systems Analysts,100700.0,3780,66.8,37.1,131.0
+"Columbus, OH",Information Security Analysts,120020.0,1230,66.8,37.1,131.0
+"Columbus, OH",Computer and Information Research Scientists,138590.0,60,66.8,37.1,131.0
+"Columbus, OH",Computer Network Support Specialists,70900.0,2260,66.8,37.1,131.0
+"Columbus, OH",Computer User Support Specialists,60070.0,4980,66.8,37.1,131.0
+"Columbus, OH",Computer Network Architects,126850.0,1230,66.8,37.1,131.0
+"Columbus, OH",Database Administrators,100550.0,390,66.8,37.1,131.0
+"Columbus, OH",Database Architects,132310.0,460,66.8,37.1,131.0
+"Columbus, OH",Network and Computer Systems Administrators,99050.0,3300,66.8,37.1,131.0
+"Columbus, OH",Computer Programmers,108230.0,440,66.8,37.1,131.0
+"Columbus, OH",Software Developers,117150.0,10200,66.8,37.1,131.0
+"Columbus, OH",Software Quality Assurance Analysts and Testers,87000.0,940,66.8,37.1,131.0
+"Columbus, OH",Web Developers,84270.0,300,66.8,37.1,131.0
+"Columbus, OH","Computer Occupations, All Other",120640.0,2180,66.8,37.1,131.0
+"Columbus, OH",Operations Research Analysts,109440.0,700,66.8,37.1,131.0
+"Columbus, OH",Data Scientists,100480.0,1160,66.8,37.1,131.0
+"Columbus, OH",Computer Hardware Engineers,138270.0,80,66.8,37.1,131.0
+"Dallas, TX",Computer and Information Systems Managers,169860.0,29820,65.8,46.2,152.8
+"Dallas, TX",Computer and Mathematical Occupations,111390.0,189680,65.8,46.2,152.8
+"Dallas, TX",Computer Systems Analysts,117040.0,17280,65.8,46.2,152.8
+"Dallas, TX",Information Security Analysts,131280.0,6570,65.8,46.2,152.8
+"Dallas, TX",Computer and Information Research Scientists,97090.0,870,65.8,46.2,152.8
+"Dallas, TX",Computer Network Support Specialists,71190.0,4710,65.8,46.2,152.8
+"Dallas, TX",Computer User Support Specialists,57550.0,19940,65.8,46.2,152.8
+"Dallas, TX",Computer Network Architects,132420.0,7570,65.8,46.2,152.8
+"Dallas, TX",Database Administrators,125010.0,2240,65.8,46.2,152.8
+"Dallas, TX",Database Architects,135730.0,2560,65.8,46.2,152.8
+"Dallas, TX",Network and Computer Systems Administrators,100480.0,11780,65.8,46.2,152.8
+"Dallas, TX",Computer Programmers,99780.0,3620,65.8,46.2,152.8
+"Dallas, TX",Software Developers,131490.0,63430,65.8,46.2,152.8
+"Dallas, TX",Software Quality Assurance Analysts and Testers,103010.0,8690,65.8,46.2,152.8
+"Dallas, TX",Web Developers,98640.0,1790,65.8,46.2,152.8
+"Dallas, TX","Computer Occupations, All Other",121050.0,21290,65.8,46.2,152.8
+"Dallas, TX",Operations Research Analysts,102140.0,5010,65.8,46.2,152.8
+"Dallas, TX",Data Scientists,120840.0,8630,65.8,46.2,152.8
+"Dallas, TX",Computer Hardware Engineers,130450.0,1180,65.8,46.2,152.8
+"Denver, CO",Computer and Information Systems Managers,183050.0,8510,71.6,50.6,142.7
+"Denver, CO",Computer and Mathematical Occupations,124230.0,85130,71.6,50.6,142.7
+"Denver, CO",Computer Systems Analysts,122950.0,4510,71.6,50.6,142.7
+"Denver, CO",Information Security Analysts,131670.0,3620,71.6,50.6,142.7
+"Denver, CO",Computer and Information Research Scientists,111930.0,**,71.6,50.6,142.7
+"Denver, CO",Computer Network Support Specialists,83840.0,2630,71.6,50.6,142.7
+"Denver, CO",Computer User Support Specialists,69940.0,8970,71.6,50.6,142.7
+"Denver, CO",Computer Network Architects,132870.0,8250,71.6,50.6,142.7
+"Denver, CO",Database Administrators,126810.0,970,71.6,50.6,142.7
+"Denver, CO",Database Architects,150210.0,1380,71.6,50.6,142.7
+"Denver, CO",Network and Computer Systems Administrators,105490.0,4980,71.6,50.6,142.7
+"Denver, CO",Computer Programmers,122580.0,390,71.6,50.6,142.7
+"Denver, CO",Software Developers,134120.0,31190,71.6,50.6,142.7
+"Denver, CO",Software Quality Assurance Analysts and Testers,118090.0,3800,71.6,50.6,142.7
+"Denver, CO",Web Developers,110380.0,**,71.6,50.6,142.7
+"Denver, CO","Computer Occupations, All Other",122500.0,4740,71.6,50.6,142.7
+"Denver, CO",Operations Research Analysts,102710.0,600,71.6,50.6,142.7
+"Denver, CO",Data Scientists,105380.0,4940,71.6,50.6,142.7
+"Houston, TX",Computer and Information Systems Managers,167630.0,13320,60.6,39.8,150.0
+"Houston, TX",Computer and Mathematical Occupations,100140.0,84860,60.6,39.8,150.0
+"Houston, TX",Computer Systems Analysts,114260.0,9500,60.6,39.8,150.0
+"Houston, TX",Information Security Analysts,120170.0,2040,60.6,39.8,150.0
+"Houston, TX",Computer and Information Research Scientists,102820.0,580,60.6,39.8,150.0
+"Houston, TX",Computer Network Support Specialists,65840.0,2380,60.6,39.8,150.0
+"Houston, TX",Computer User Support Specialists,57060.0,11250,60.6,39.8,150.0
+"Houston, TX",Computer Network Architects,127730.0,1970,60.6,39.8,150.0
+"Houston, TX",Database Administrators,111390.0,1080,60.6,39.8,150.0
+"Houston, TX",Database Architects,128650.0,1130,60.6,39.8,150.0
+"Houston, TX",Network and Computer Systems Administrators,96500.0,6780,60.6,39.8,150.0
+"Houston, TX",Software Developers,127940.0,20830,60.6,39.8,150.0
+"Houston, TX",Software Quality Assurance Analysts and Testers,99800.0,2710,60.6,39.8,150.0
+"Houston, TX",Web Developers,95760.0,1140,60.6,39.8,150.0
+"Houston, TX","Computer Occupations, All Other",104330.0,11510,60.6,39.8,150.0
+"Houston, TX",Operations Research Analysts,97900.0,2240,60.6,39.8,150.0
+"Houston, TX",Data Scientists,100420.0,4900,60.6,39.8,150.0
+"Houston, TX",Computer Hardware Engineers,133350.0,950,60.6,39.8,150.0
+"Jacksonville, FL",Computer and Information Systems Managers,163890.0,2720,59.7,38.1,143.1
+"Jacksonville, FL",Computer and Mathematical Occupations,97960.0,22710,59.7,38.1,143.1
+"Jacksonville, FL",Computer Systems Analysts,100900.0,3020,59.7,38.1,143.1
+"Jacksonville, FL",Information Security Analysts,103620.0,1090,59.7,38.1,143.1
+"Jacksonville, FL",Computer and Information Research Scientists,99230.0,50,59.7,38.1,143.1
+"Jacksonville, FL",Computer Network Support Specialists,67740.0,480,59.7,38.1,143.1
+"Jacksonville, FL",Computer User Support Specialists,56140.0,3720,59.7,38.1,143.1
+"Jacksonville, FL",Computer Network Architects,129070.0,830,59.7,38.1,143.1
+"Jacksonville, FL",Database Administrators,98810.0,370,59.7,38.1,143.1
+"Jacksonville, FL",Database Architects,130620.0,170,59.7,38.1,143.1
+"Jacksonville, FL",Network and Computer Systems Administrators,91600.0,1510,59.7,38.1,143.1
+"Jacksonville, FL",Computer Programmers,98350.0,290,59.7,38.1,143.1
+"Jacksonville, FL",Software Developers,125320.0,6270,59.7,38.1,143.1
+"Jacksonville, FL",Software Quality Assurance Analysts and Testers,96950.0,1050,59.7,38.1,143.1
+"Jacksonville, FL",Web Developers,78590.0,270,59.7,38.1,143.1
+"Jacksonville, FL","Computer Occupations, All Other",98550.0,1410,59.7,38.1,143.1
+"Jacksonville, FL",Operations Research Analysts,78310.0,1000,59.7,38.1,143.1
+"Jacksonville, FL",Data Scientists,102680.0,780,59.7,38.1,143.1
+"Jacksonville, FL",Computer Hardware Engineers,98970.0,140,59.7,38.1,143.1
+"Las Vegas, NV",Computer and Information Systems Managers,139320.0,2180,64.5,38.3,142.9
+"Las Vegas, NV",Computer and Mathematical Occupations,88860.0,19390,64.5,38.3,142.9
+"Las Vegas, NV",Computer Systems Analysts,102160.0,1930,64.5,38.3,142.9
+"Las Vegas, NV",Information Security Analysts,106530.0,1260,64.5,38.3,142.9
+"Las Vegas, NV",Computer and Information Research Scientists,130350.0,**,64.5,38.3,142.9
+"Las Vegas, NV",Computer Network Support Specialists,71210.0,930,64.5,38.3,142.9
+"Las Vegas, NV",Computer User Support Specialists,52020.0,4520,64.5,38.3,142.9
+"Las Vegas, NV",Computer Network Architects,130570.0,630,64.5,38.3,142.9
+"Las Vegas, NV",Database Administrators,84600.0,340,64.5,38.3,142.9
+"Las Vegas, NV",Database Architects,126640.0,250,64.5,38.3,142.9
+"Las Vegas, NV",Network and Computer Systems Administrators,97750.0,1220,64.5,38.3,142.9
+"Las Vegas, NV",Computer Programmers,88790.0,320,64.5,38.3,142.9
+"Las Vegas, NV",Software Developers,129400.0,2980,64.5,38.3,142.9
+"Las Vegas, NV",Software Quality Assurance Analysts and Testers,88730.0,480,64.5,38.3,142.9
+"Las Vegas, NV",Web Developers,79450.0,140,64.5,38.3,142.9
+"Las Vegas, NV","Computer Occupations, All Other",102800.0,2440,64.5,38.3,142.9
+"Las Vegas, NV",Operations Research Analysts,82640.0,240,64.5,38.3,142.9
+"Las Vegas, NV",Data Scientists,93220.0,890,64.5,38.3,142.9
+"Las Vegas, NV",Computer Hardware Engineers,102340.0,100,64.5,38.3,142.9
+"Los Angeles, CA",Computer and Information Systems Managers,191410.0,24260,76.3,62.9,123.3
+"Los Angeles, CA",Computer and Mathematical Occupations,121480.0,178860,76.3,62.9,123.3
+"Los Angeles, CA",Computer Systems Analysts,126520.0,15260,76.3,62.9,123.3
+"Los Angeles, CA",Information Security Analysts,131280.0,4420,76.3,62.9,123.3
+"Los Angeles, CA",Computer and Information Research Scientists,149070.0,1120,76.3,62.9,123.3
+"Los Angeles, CA",Computer Network Support Specialists,74040.0,4020,76.3,62.9,123.3
+"Los Angeles, CA",Computer User Support Specialists,71230.0,19950,76.3,62.9,123.3
+"Los Angeles, CA",Computer Network Architects,137910.0,4520,76.3,62.9,123.3
+"Los Angeles, CA",Database Administrators,105400.0,2610,76.3,62.9,123.3
+"Los Angeles, CA",Database Architects,145300.0,1730,76.3,62.9,123.3
+"Los Angeles, CA",Network and Computer Systems Administrators,105270.0,9000,76.3,62.9,123.3
+"Los Angeles, CA",Computer Programmers,104410.0,4750,76.3,62.9,123.3
+"Los Angeles, CA",Software Developers,155330.0,54650,76.3,62.9,123.3
+"Los Angeles, CA",Software Quality Assurance Analysts and Testers,106400.0,7560,76.3,62.9,123.3
+"Los Angeles, CA",Web Developers,97990.0,2920,76.3,62.9,123.3
+"Los Angeles, CA","Computer Occupations, All Other",101840.0,23310,76.3,62.9,123.3
+"Los Angeles, CA",Operations Research Analysts,88150.0,3550,76.3,62.9,123.3
+"Los Angeles, CA",Data Scientists,124270.0,10030,76.3,62.9,123.3
+"Los Angeles, CA",Computer Hardware Engineers,140890.0,2160,76.3,62.9,123.3
+"Madison, WI",Computer and Information Systems Managers,138010.0,1850,63.6,39.3,151.7
+"Madison, WI",Computer and Mathematical Occupations,93510.0,20480,63.6,39.3,151.7
+"Madison, WI",Computer Systems Analysts,92020.0,2230,63.6,39.3,151.7
+"Madison, WI",Information Security Analysts,98850.0,380,63.6,39.3,151.7
+"Madison, WI",Computer Network Support Specialists,85710.0,540,63.6,39.3,151.7
+"Madison, WI",Computer User Support Specialists,58570.0,2740,63.6,39.3,151.7
+"Madison, WI",Computer Network Architects,116590.0,330,63.6,39.3,151.7
+"Madison, WI",Database Administrators,95530.0,410,63.6,39.3,151.7
+"Madison, WI",Database Architects,158140.0,60,63.6,39.3,151.7
+"Madison, WI",Network and Computer Systems Administrators,80660.0,1550,63.6,39.3,151.7
+"Madison, WI",Computer Programmers,80830.0,**,63.6,39.3,151.7
+"Madison, WI",Software Developers,104670.0,6380,63.6,39.3,151.7
+"Madison, WI",Software Quality Assurance Analysts and Testers,83060.0,1190,63.6,39.3,151.7
+"Madison, WI",Web Developers,76320.0,320,63.6,39.3,151.7
+"Madison, WI","Computer Occupations, All Other",94370.0,1650,63.6,39.3,151.7
+"Madison, WI",Operations Research Analysts,78620.0,1070,63.6,39.3,151.7
+"Madison, WI",Data Scientists,98510.0,830,63.6,39.3,151.7
+"Madison, WI",Computer Hardware Engineers,100690.0,140,63.6,39.3,151.7
+"Miami, FL",Computer and Information Systems Managers,165910.0,8840,72.8,68.6,106.7
+"Miami, FL",Computer and Mathematical Occupations,100850.0,66740,72.8,68.6,106.7
+"Miami, FL",Computer Systems Analysts,103260.0,7510,72.8,68.6,106.7
+"Miami, FL",Information Security Analysts,107260.0,2950,72.8,68.6,106.7
+"Miami, FL",Computer and Information Research Scientists,131190.0,110,72.8,68.6,106.7
+"Miami, FL",Computer Network Support Specialists,77600.0,1840,72.8,68.6,106.7
+"Miami, FL",Computer User Support Specialists,61070.0,12140,72.8,68.6,106.7
+"Miami, FL",Computer Network Architects,135250.0,1740,72.8,68.6,106.7
+"Miami, FL",Database Administrators,104420.0,980,72.8,68.6,106.7
+"Miami, FL",Database Architects,134790.0,560,72.8,68.6,106.7
+"Miami, FL",Network and Computer Systems Administrators,92680.0,6260,72.8,68.6,106.7
+"Miami, FL",Computer Programmers,104750.0,1680,72.8,68.6,106.7
+"Miami, FL",Software Developers,129840.0,17710,72.8,68.6,106.7
+"Miami, FL",Software Quality Assurance Analysts and Testers,100480.0,2160,72.8,68.6,106.7
+"Miami, FL",Web Developers,82830.0,1120,72.8,68.6,106.7
+"Miami, FL","Computer Occupations, All Other",114770.0,4290,72.8,68.6,106.7
+"Miami, FL",Operations Research Analysts,75510.0,1760,72.8,68.6,106.7
+"Miami, FL",Data Scientists,118820.0,2250,72.8,68.6,106.7
+"Miami, FL",Computer Hardware Engineers,105270.0,470,72.8,68.6,106.7
+"Minneapolis, MN",Computer and Information Systems Managers,173630.0,8680,67.3,35.6,158.4
+"Minneapolis, MN",Computer and Mathematical Occupations,104820.0,73550,67.3,35.6,158.4
+"Minneapolis, MN",Computer Systems Analysts,108680.0,8360,67.3,35.6,158.4
+"Minneapolis, MN",Information Security Analysts,129380.0,2090,67.3,35.6,158.4
+"Minneapolis, MN",Computer and Information Research Scientists,131810.0,50,67.3,35.6,158.4
+"Minneapolis, MN",Computer Network Support Specialists,79460.0,2210,67.3,35.6,158.4
+"Minneapolis, MN",Computer User Support Specialists,64890.0,10400,67.3,35.6,158.4
+"Minneapolis, MN",Computer Network Architects,126900.0,1590,67.3,35.6,158.4
+"Minneapolis, MN",Database Administrators,100490.0,750,67.3,35.6,158.4
+"Minneapolis, MN",Database Architects,132880.0,790,67.3,35.6,158.4
+"Minneapolis, MN",Network and Computer Systems Administrators,96970.0,3000,67.3,35.6,158.4
+"Minneapolis, MN",Computer Programmers,115770.0,1620,67.3,35.6,158.4
+"Minneapolis, MN",Software Developers,129430.0,29550,67.3,35.6,158.4
+"Minneapolis, MN",Software Quality Assurance Analysts and Testers,105930.0,2430,67.3,35.6,158.4
+"Minneapolis, MN",Web Developers,103910.0,1090,67.3,35.6,158.4
+"Minneapolis, MN","Computer Occupations, All Other",101680.0,2970,67.3,35.6,158.4
+"Minneapolis, MN",Operations Research Analysts,92840.0,1160,67.3,35.6,158.4
+"Minneapolis, MN",Data Scientists,119860.0,2870,67.3,35.6,158.4
+"Minneapolis, MN",Computer Hardware Engineers,130530.0,420,67.3,35.6,158.4
+"Nashville, TN",Computer and Information Systems Managers,158360.0,5650,66.4,47.4,143.9
+"Nashville, TN",Computer and Mathematical Occupations,91750.0,36510,66.4,47.4,143.9
+"Nashville, TN",Computer Systems Analysts,81160.0,4550,66.4,47.4,143.9
+"Nashville, TN",Information Security Analysts,110270.0,1140,66.4,47.4,143.9
+"Nashville, TN",Computer Network Support Specialists,70960.0,830,66.4,47.4,143.9
+"Nashville, TN",Computer User Support Specialists,58820.0,4460,66.4,47.4,143.9
+"Nashville, TN",Computer Network Architects,121620.0,1700,66.4,47.4,143.9
+"Nashville, TN",Database Administrators,109620.0,670,66.4,47.4,143.9
+"Nashville, TN",Database Architects,130640.0,320,66.4,47.4,143.9
+"Nashville, TN",Network and Computer Systems Administrators,100180.0,2400,66.4,47.4,143.9
+"Nashville, TN",Software Developers,127150.0,8420,66.4,47.4,143.9
+"Nashville, TN",Software Quality Assurance Analysts and Testers,92470.0,1330,66.4,47.4,143.9
+"Nashville, TN",Web Developers,77360.0,600,66.4,47.4,143.9
+"Nashville, TN","Computer Occupations, All Other",66180.0,4230,66.4,47.4,143.9
+"Nashville, TN",Operations Research Analysts,57720.0,590,66.4,47.4,143.9
+"Nashville, TN",Data Scientists,127770.0,1490,66.4,47.4,143.9
+"Nashville, TN",Computer Hardware Engineers,109900.0,**,66.4,47.4,143.9
+"New Orleans, LA",Computer and Information Systems Managers,135340.0,660,71.2,40.4,121.4
+"New Orleans, LA",Computer and Mathematical Occupations,77880.0,6510,71.2,40.4,121.4
+"New Orleans, LA",Computer Systems Analysts,97430.0,490,71.2,40.4,121.4
+"New Orleans, LA",Information Security Analysts,102700.0,140,71.2,40.4,121.4
+"New Orleans, LA",Computer and Information Research Scientists,106000.0,70,71.2,40.4,121.4
+"New Orleans, LA",Computer Network Support Specialists,57940.0,210,71.2,40.4,121.4
+"New Orleans, LA",Computer User Support Specialists,53350.0,1180,71.2,40.4,121.4
+"New Orleans, LA",Computer Network Architects,109800.0,140,71.2,40.4,121.4
+"New Orleans, LA",Database Administrators,83510.0,60,71.2,40.4,121.4
+"New Orleans, LA",Network and Computer Systems Administrators,88990.0,410,71.2,40.4,121.4
+"New Orleans, LA",Computer Programmers,75220.0,340,71.2,40.4,121.4
+"New Orleans, LA",Software Developers,112450.0,740,71.2,40.4,121.4
+"New Orleans, LA",Software Quality Assurance Analysts and Testers,39800.0,140,71.2,40.4,121.4
+"New Orleans, LA",Web Developers,67870.0,90,71.2,40.4,121.4
+"New Orleans, LA","Computer Occupations, All Other",90460.0,1780,71.2,40.4,121.4
+"New Orleans, LA",Operations Research Analysts,64240.0,280,71.2,40.4,121.4
+"New Orleans, LA",Data Scientists,69990.0,120,71.2,40.4,121.4
+"New Orleans, LA",Computer Hardware Engineers,142890.0,40,71.2,40.4,121.4
+"New York, NY",Computer and Information Systems Managers,212400.0,56180,100.0,100.0,100.0
+"New York, NY",Computer and Mathematical Occupations,128980.0,327390,100.0,100.0,100.0
+"New York, NY",Computer Systems Analysts,127150.0,25320,100.0,100.0,100.0
+"New York, NY",Information Security Analysts,138360.0,10160,100.0,100.0,100.0
+"New York, NY",Computer and Information Research Scientists,166080.0,1430,100.0,100.0,100.0
+"New York, NY",Computer Network Support Specialists,88980.0,6620,100.0,100.0,100.0
+"New York, NY",Computer User Support Specialists,70010.0,40410,100.0,100.0,100.0
+"New York, NY",Computer Network Architects,153820.0,10600,100.0,100.0,100.0
+"New York, NY",Database Administrators,124550.0,3770,100.0,100.0,100.0
+"New York, NY",Database Architects,137290.0,5220,100.0,100.0,100.0
+"New York, NY",Network and Computer Systems Administrators,113030.0,19080,100.0,100.0,100.0
+"New York, NY",Computer Programmers,109590.0,6510,100.0,100.0,100.0
+"New York, NY",Software Developers,161970.0,119610,100.0,100.0,100.0
+"New York, NY",Software Quality Assurance Analysts and Testers,121520.0,13140,100.0,100.0,100.0
+"New York, NY",Web Developers,67400.0,6560,100.0,100.0,100.0
+"New York, NY","Computer Occupations, All Other",115480.0,14660,100.0,100.0,100.0
+"New York, NY",Operations Research Analysts,118320.0,6350,100.0,100.0,100.0
+"New York, NY",Data Scientists,130710.0,19810,100.0,100.0,100.0
+"New York, NY",Computer Hardware Engineers,136330.0,1390,100.0,100.0,100.0
+"Orlando, FL",Computer and Information Systems Managers,165560.0,4420,64.6,45.2,141.1
+"Orlando, FL",Computer and Mathematical Occupations,99780.0,42920,64.6,45.2,141.1
+"Orlando, FL",Computer Systems Analysts,99690.0,4650,64.6,45.2,141.1
+"Orlando, FL",Information Security Analysts,124870.0,2070,64.6,45.2,141.1
+"Orlando, FL",Computer and Information Research Scientists,113030.0,190,64.6,45.2,141.1
+"Orlando, FL",Computer Network Support Specialists,62400.0,1340,64.6,45.2,141.1
+"Orlando, FL",Computer User Support Specialists,52960.0,6870,64.6,45.2,141.1
+"Orlando, FL",Computer Network Architects,129600.0,1390,64.6,45.2,141.1
+"Orlando, FL",Database Administrators,103200.0,610,64.6,45.2,141.1
+"Orlando, FL",Database Architects,133930.0,320,64.6,45.2,141.1
+"Orlando, FL",Network and Computer Systems Administrators,95560.0,3390,64.6,45.2,141.1
+"Orlando, FL",Computer Programmers,98730.0,450,64.6,45.2,141.1
+"Orlando, FL",Software Developers,123060.0,13640,64.6,45.2,141.1
+"Orlando, FL",Software Quality Assurance Analysts and Testers,100810.0,1820,64.6,45.2,141.1
+"Orlando, FL",Web Developers,86010.0,750,64.6,45.2,141.1
+"Orlando, FL","Computer Occupations, All Other",105800.0,2120,64.6,45.2,141.1
+"Orlando, FL",Operations Research Analysts,78430.0,920,64.6,45.2,141.1
+"Orlando, FL",Data Scientists,101680.0,1430,64.6,45.2,141.1
+"Orlando, FL",Computer Hardware Engineers,128110.0,520,64.6,45.2,141.1
+"Philadelphia, PA-NJ-DE",Computer and Information Systems Managers,170330.0,12820,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Computer and Mathematical Occupations,104340.0,88770,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Computer Systems Analysts,101760.0,8380,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Information Security Analysts,124270.0,2440,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Computer and Information Research Scientists,124680.0,330,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Computer Network Support Specialists,79120.0,2080,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Computer User Support Specialists,61540.0,12950,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Computer Network Architects,129360.0,3060,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Database Administrators,108280.0,1890,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Database Architects,143110.0,1200,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Network and Computer Systems Administrators,94610.0,4260,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Computer Programmers,88100.0,2130,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Software Developers,130670.0,26150,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Software Quality Assurance Analysts and Testers,103640.0,3280,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Web Developers,83980.0,1160,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE","Computer Occupations, All Other",114720.0,8610,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Operations Research Analysts,98540.0,1650,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Data Scientists,107030.0,5640,73.9,41.3,125.0
+"Philadelphia, PA-NJ-DE",Computer Hardware Engineers,139400.0,600,73.9,41.3,125.0
+"Phoenix, AZ",Computer and Information Systems Managers,163970.0,11700,63.8,37.9,154.5
+"Phoenix, AZ",Computer and Mathematical Occupations,102710.0,82530,63.8,37.9,154.5
+"Phoenix, AZ",Computer Systems Analysts,102280.0,8280,63.8,37.9,154.5
+"Phoenix, AZ",Information Security Analysts,130390.0,3160,63.8,37.9,154.5
+"Phoenix, AZ",Computer and Information Research Scientists,163100.0,210,63.8,37.9,154.5
+"Phoenix, AZ",Computer Network Support Specialists,65850.0,1140,63.8,37.9,154.5
+"Phoenix, AZ",Computer User Support Specialists,63370.0,15860,63.8,37.9,154.5
+"Phoenix, AZ",Computer Network Architects,128990.0,3490,63.8,37.9,154.5
+"Phoenix, AZ",Database Administrators,98620.0,1020,63.8,37.9,154.5
+"Phoenix, AZ",Database Architects,132410.0,710,63.8,37.9,154.5
+"Phoenix, AZ",Network and Computer Systems Administrators,88200.0,4040,63.8,37.9,154.5
+"Phoenix, AZ",Computer Programmers,72700.0,2830,63.8,37.9,154.5
+"Phoenix, AZ",Software Developers,129600.0,26950,63.8,37.9,154.5
+"Phoenix, AZ",Software Quality Assurance Analysts and Testers,103890.0,3100,63.8,37.9,154.5
+"Phoenix, AZ",Web Developers,80290.0,960,63.8,37.9,154.5
+"Phoenix, AZ","Computer Occupations, All Other",115590.0,4130,63.8,37.9,154.5
+"Phoenix, AZ",Operations Research Analysts,84220.0,1860,63.8,37.9,154.5
+"Phoenix, AZ",Data Scientists,109230.0,3210,63.8,37.9,154.5
+"Phoenix, AZ",Computer Hardware Engineers,163220.0,3200,63.8,37.9,154.5
+"Pittsburgh, PA",Computer and Information Systems Managers,154870.0,4360,68.7,36.9,145.0
+"Pittsburgh, PA",Computer and Mathematical Occupations,92930.0,32200,68.7,36.9,145.0
+"Pittsburgh, PA",Computer Systems Analysts,95820.0,3460,68.7,36.9,145.0
+"Pittsburgh, PA",Information Security Analysts,103470.0,1090,68.7,36.9,145.0
+"Pittsburgh, PA",Computer and Information Research Scientists,132290.0,60,68.7,36.9,145.0
+"Pittsburgh, PA",Computer Network Support Specialists,76590.0,920,68.7,36.9,145.0
+"Pittsburgh, PA",Computer User Support Specialists,58370.0,5290,68.7,36.9,145.0
+"Pittsburgh, PA",Computer Network Architects,117850.0,1150,68.7,36.9,145.0
+"Pittsburgh, PA",Database Administrators,89750.0,520,68.7,36.9,145.0
+"Pittsburgh, PA",Database Architects,126410.0,440,68.7,36.9,145.0
+"Pittsburgh, PA",Network and Computer Systems Administrators,78990.0,1500,68.7,36.9,145.0
+"Pittsburgh, PA",Computer Programmers,86120.0,600,68.7,36.9,145.0
+"Pittsburgh, PA",Software Developers,122350.0,8820,68.7,36.9,145.0
+"Pittsburgh, PA",Software Quality Assurance Analysts and Testers,79590.0,1140,68.7,36.9,145.0
+"Pittsburgh, PA",Web Developers,78610.0,410,68.7,36.9,145.0
+"Pittsburgh, PA","Computer Occupations, All Other",101760.0,2970,68.7,36.9,145.0
+"Pittsburgh, PA",Operations Research Analysts,62490.0,610,68.7,36.9,145.0
+"Pittsburgh, PA",Data Scientists,96370.0,1890,68.7,36.9,145.0
+"Pittsburgh, PA",Computer Hardware Engineers,122580.0,200,68.7,36.9,145.0
+"Portland, OR",Computer and Information Systems Managers,178210.0,**,71.2,44.8,147.3
+"Portland, OR",Computer and Mathematical Occupations,118660.0,46640,71.2,44.8,147.3
+"Portland, OR",Computer Systems Analysts,122300.0,3760,71.2,44.8,147.3
+"Portland, OR",Information Security Analysts,126640.0,990,71.2,44.8,147.3
+"Portland, OR",Computer and Information Research Scientists,169510.0,650,71.2,44.8,147.3
+"Portland, OR",Computer Network Support Specialists,77250.0,1100,71.2,44.8,147.3
+"Portland, OR",Computer User Support Specialists,62330.0,6340,71.2,44.8,147.3
+"Portland, OR",Computer Network Architects,130810.0,900,71.2,44.8,147.3
+"Portland, OR",Database Administrators,102520.0,690,71.2,44.8,147.3
+"Portland, OR",Database Architects,143260.0,570,71.2,44.8,147.3
+"Portland, OR",Network and Computer Systems Administrators,102650.0,2410,71.2,44.8,147.3
+"Portland, OR",Computer Programmers,120870.0,970,71.2,44.8,147.3
+"Portland, OR",Software Developers,149010.0,16620,71.2,44.8,147.3
+"Portland, OR",Software Quality Assurance Analysts and Testers,103350.0,2560,71.2,44.8,147.3
+"Portland, OR",Web Developers,85990.0,750,71.2,44.8,147.3
+"Portland, OR","Computer Occupations, All Other",117020.0,2750,71.2,44.8,147.3
+"Portland, OR",Operations Research Analysts,100310.0,2080,71.2,44.8,147.3
+"Portland, OR",Data Scientists,114390.0,2090,71.2,44.8,147.3
+"Raleigh, NC",Computer and Information Systems Managers,169400.0,5860,68.8,43.1,150.3
+"Raleigh, NC",Computer and Mathematical Occupations,106710.0,40380,68.8,43.1,150.3
+"Raleigh, NC",Computer Systems Analysts,105610.0,4780,68.8,43.1,150.3
+"Raleigh, NC",Information Security Analysts,115990.0,1460,68.8,43.1,150.3
+"Raleigh, NC",Computer and Information Research Scientists,124490.0,**,68.8,43.1,150.3
+"Raleigh, NC",Computer Network Support Specialists,76590.0,650,68.8,43.1,150.3
+"Raleigh, NC",Computer User Support Specialists,60010.0,4950,68.8,43.1,150.3
+"Raleigh, NC",Computer Network Architects,114400.0,1680,68.8,43.1,150.3
+"Raleigh, NC",Database Administrators,117570.0,510,68.8,43.1,150.3
+"Raleigh, NC",Database Architects,129000.0,660,68.8,43.1,150.3
+"Raleigh, NC",Network and Computer Systems Administrators,100470.0,2820,68.8,43.1,150.3
+"Raleigh, NC",Computer Programmers,86220.0,1040,68.8,43.1,150.3
+"Raleigh, NC",Software Developers,131390.0,12290,68.8,43.1,150.3
+"Raleigh, NC",Software Quality Assurance Analysts and Testers,106290.0,1810,68.8,43.1,150.3
+"Raleigh, NC",Web Developers,92470.0,420,68.8,43.1,150.3
+"Raleigh, NC","Computer Occupations, All Other",114300.0,3490,68.8,43.1,150.3
+"Raleigh, NC",Operations Research Analysts,81240.0,250,68.8,43.1,150.3
+"Raleigh, NC",Data Scientists,102690.0,1940,68.8,43.1,150.3
+"Raleigh, NC",Computer Hardware Engineers,129200.0,310,68.8,43.1,150.3
+"Sacramento, CA",Computer and Information Systems Managers,161710.0,4230,76.0,49.6,128.7
+"Sacramento, CA",Computer and Mathematical Occupations,113510.0,37250,76.0,49.6,128.7
+"Sacramento, CA",Computer Systems Analysts,122310.0,2930,76.0,49.6,128.7
+"Sacramento, CA",Information Security Analysts,132030.0,640,76.0,49.6,128.7
+"Sacramento, CA",Computer and Information Research Scientists,161850.0,150,76.0,49.6,128.7
+"Sacramento, CA",Computer Network Support Specialists,85860.0,780,76.0,49.6,128.7
+"Sacramento, CA",Computer User Support Specialists,102430.0,13690,76.0,49.6,128.7
+"Sacramento, CA",Computer Network Architects,132370.0,760,76.0,49.6,128.7
+"Sacramento, CA",Database Administrators,125220.0,490,76.0,49.6,128.7
+"Sacramento, CA",Database Architects,154150.0,190,76.0,49.6,128.7
+"Sacramento, CA",Network and Computer Systems Administrators,102280.0,1470,76.0,49.6,128.7
+"Sacramento, CA",Computer Programmers,105030.0,620,76.0,49.6,128.7
+"Sacramento, CA",Software Developers,141030.0,7410,76.0,49.6,128.7
+"Sacramento, CA",Software Quality Assurance Analysts and Testers,111040.0,870,76.0,49.6,128.7
+"Sacramento, CA",Web Developers,104820.0,300,76.0,49.6,128.7
+"Sacramento, CA","Computer Occupations, All Other",109100.0,3160,76.0,49.6,128.7
+"Sacramento, CA",Operations Research Analysts,91180.0,510,76.0,49.6,128.7
+"Sacramento, CA",Data Scientists,98460.0,2510,76.0,49.6,128.7
+"St. Louis, MO",Computer and Information Systems Managers,154760.0,4680,62.3,34.8,167.1
+"St. Louis, MO",Computer and Mathematical Occupations,91400.0,42150,62.3,34.8,167.1
+"St. Louis, MO",Computer Systems Analysts,98330.0,3960,62.3,34.8,167.1
+"St. Louis, MO",Information Security Analysts,106250.0,1280,62.3,34.8,167.1
+"St. Louis, MO",Computer and Information Research Scientists,112080.0,170,62.3,34.8,167.1
+"St. Louis, MO",Computer Network Support Specialists,61000.0,2070,62.3,34.8,167.1
+"St. Louis, MO",Computer User Support Specialists,57420.0,6040,62.3,34.8,167.1
+"St. Louis, MO",Computer Network Architects,122130.0,1310,62.3,34.8,167.1
+"St. Louis, MO",Database Administrators,95400.0,710,62.3,34.8,167.1
+"St. Louis, MO",Database Architects,122290.0,910,62.3,34.8,167.1
+"St. Louis, MO",Network and Computer Systems Administrators,81110.0,2450,62.3,34.8,167.1
+"St. Louis, MO",Computer Programmers,97930.0,800,62.3,34.8,167.1
+"St. Louis, MO",Software Developers,120490.0,9360,62.3,34.8,167.1
+"St. Louis, MO",Software Quality Assurance Analysts and Testers,78870.0,1260,62.3,34.8,167.1
+"St. Louis, MO",Web Developers,85140.0,560,62.3,34.8,167.1
+"St. Louis, MO","Computer Occupations, All Other",99100.0,6040,62.3,34.8,167.1
+"St. Louis, MO",Operations Research Analysts,52370.0,1560,62.3,34.8,167.1
+"St. Louis, MO",Data Scientists,90330.0,2660,62.3,34.8,167.1
+"St. Louis, MO",Computer Hardware Engineers,116880.0,320,62.3,34.8,167.1
+"Salt Lake City, UT",Computer and Information Systems Managers,160300.0,4920,61.9,38.0,156.3
+"Salt Lake City, UT",Computer and Mathematical Occupations,105830.0,40890,61.9,38.0,156.3
+"Salt Lake City, UT",Computer Systems Analysts,91160.0,1940,61.9,38.0,156.3
+"Salt Lake City, UT",Information Security Analysts,99560.0,1050,61.9,38.0,156.3
+"Salt Lake City, UT",Computer and Information Research Scientists,160550.0,80,61.9,38.0,156.3
+"Salt Lake City, UT",Computer Network Support Specialists,71600.0,490,61.9,38.0,156.3
+"Salt Lake City, UT",Computer User Support Specialists,59750.0,5490,61.9,38.0,156.3
+"Salt Lake City, UT",Computer Network Architects,134040.0,1170,61.9,38.0,156.3
+"Salt Lake City, UT",Database Administrators,94920.0,430,61.9,38.0,156.3
+"Salt Lake City, UT",Database Architects,131550.0,**,61.9,38.0,156.3
+"Salt Lake City, UT",Network and Computer Systems Administrators,88330.0,1300,61.9,38.0,156.3
+"Salt Lake City, UT",Computer Programmers,88410.0,710,61.9,38.0,156.3
+"Salt Lake City, UT",Software Developers,128350.0,16740,61.9,38.0,156.3
+"Salt Lake City, UT",Web Developers,79040.0,700,61.9,38.0,156.3
+"Salt Lake City, UT","Computer Occupations, All Other",98550.0,1930,61.9,38.0,156.3
+"Salt Lake City, UT",Operations Research Analysts,82230.0,740,61.9,38.0,156.3
+"Salt Lake City, UT",Data Scientists,122370.0,**,61.9,38.0,156.3
+"Salt Lake City, UT",Computer Hardware Engineers,127700.0,140,61.9,38.0,156.3
+"San Antonio, TX",Computer and Information Systems Managers,160900.0,3980,58.8,34.6,154.5
+"San Antonio, TX",Computer and Mathematical Occupations,99760.0,32430,58.8,34.6,154.5
+"San Antonio, TX",Computer Systems Analysts,100150.0,2970,58.8,34.6,154.5
+"San Antonio, TX",Information Security Analysts,113930.0,1210,58.8,34.6,154.5
+"San Antonio, TX",Computer and Information Research Scientists,87120.0,**,58.8,34.6,154.5
+"San Antonio, TX",Computer Network Support Specialists,69930.0,830,58.8,34.6,154.5
+"San Antonio, TX",Computer User Support Specialists,53360.0,4420,58.8,34.6,154.5
+"San Antonio, TX",Computer Network Architects,121520.0,930,58.8,34.6,154.5
+"San Antonio, TX",Database Administrators,99810.0,380,58.8,34.6,154.5
+"San Antonio, TX",Database Architects,132620.0,370,58.8,34.6,154.5
+"San Antonio, TX",Network and Computer Systems Administrators,84920.0,2400,58.8,34.6,154.5
+"San Antonio, TX",Computer Programmers,103860.0,890,58.8,34.6,154.5
+"San Antonio, TX",Software Developers,125210.0,6890,58.8,34.6,154.5
+"San Antonio, TX",Software Quality Assurance Analysts and Testers,97620.0,1120,58.8,34.6,154.5
+"San Antonio, TX",Web Developers,83640.0,300,58.8,34.6,154.5
+"San Antonio, TX","Computer Occupations, All Other",108760.0,5700,58.8,34.6,154.5
+"San Antonio, TX",Operations Research Analysts,69990.0,1220,58.8,34.6,154.5
+"San Antonio, TX",Data Scientists,107850.0,1440,58.8,34.6,154.5
+"San Antonio, TX",Computer Hardware Engineers,146450.0,**,58.8,34.6,154.5
+"San Diego, CA",Computer and Information Systems Managers,193370.0,7620,77.9,67.1,139.6
+"San Diego, CA",Computer and Mathematical Occupations,126160.0,58430,77.9,67.1,139.6
+"San Diego, CA",Computer Systems Analysts,113190.0,4790,77.9,67.1,139.6
+"San Diego, CA",Information Security Analysts,130900.0,1240,77.9,67.1,139.6
+"San Diego, CA",Computer and Information Research Scientists,124790.0,1570,77.9,67.1,139.6
+"San Diego, CA",Computer Network Support Specialists,77400.0,860,77.9,67.1,139.6
+"San Diego, CA",Computer User Support Specialists,69530.0,5110,77.9,67.1,139.6
+"San Diego, CA",Computer Network Architects,131200.0,1260,77.9,67.1,139.6
+"San Diego, CA",Database Administrators,111320.0,810,77.9,67.1,139.6
+"San Diego, CA",Database Architects,137990.0,390,77.9,67.1,139.6
+"San Diego, CA",Network and Computer Systems Administrators,101990.0,2690,77.9,67.1,139.6
+"San Diego, CA",Computer Programmers,133560.0,1800,77.9,67.1,139.6
+"San Diego, CA",Software Developers,159240.0,21080,77.9,67.1,139.6
+"San Diego, CA",Software Quality Assurance Analysts and Testers,109590.0,2260,77.9,67.1,139.6
+"San Diego, CA",Web Developers,103640.0,670,77.9,67.1,139.6
+"San Diego, CA","Computer Occupations, All Other",121560.0,8210,77.9,67.1,139.6
+"San Diego, CA",Operations Research Analysts,90490.0,1270,77.9,67.1,139.6
+"San Diego, CA",Data Scientists,127200.0,2550,77.9,67.1,139.6
+"San Diego, CA",Computer Hardware Engineers,169230.0,3200,77.9,67.1,139.6
+"San Francisco, CA",Computer and Information Systems Managers,221810.0,26640,90.5,78.0,156.6
+"San Francisco, CA",Computer and Mathematical Occupations,165760.0,173380,90.5,78.0,156.6
+"San Francisco, CA",Computer Systems Analysts,145440.0,10950,90.5,78.0,156.6
+"San Francisco, CA",Information Security Analysts,168160.0,4010,90.5,78.0,156.6
+"San Francisco, CA",Computer and Information Research Scientists,168820.0,1860,90.5,78.0,156.6
+"San Francisco, CA",Computer Network Support Specialists,98670.0,1930,90.5,78.0,156.6
+"San Francisco, CA",Computer User Support Specialists,85010.0,9720,90.5,78.0,156.6
+"San Francisco, CA",Computer Network Architects,155480.0,5340,90.5,78.0,156.6
+"San Francisco, CA",Database Administrators,117020.0,1860,90.5,78.0,156.6
+"San Francisco, CA",Database Architects,170700.0,1540,90.5,78.0,156.6
+"San Francisco, CA",Network and Computer Systems Administrators,127030.0,5370,90.5,78.0,156.6
+"San Francisco, CA",Computer Programmers,122000.0,3780,90.5,78.0,156.6
+"San Francisco, CA",Software Developers,174910.0,76900,90.5,78.0,156.6
+"San Francisco, CA",Software Quality Assurance Analysts and Testers,139580.0,7910,90.5,78.0,156.6
+"San Francisco, CA",Web Developers,157490.0,2730,90.5,78.0,156.6
+"San Francisco, CA","Computer Occupations, All Other",157380.0,18680,90.5,78.0,156.6
+"San Francisco, CA",Operations Research Analysts,110000.0,2350,90.5,78.0,156.6
+"San Francisco, CA",Data Scientists,166300.0,9350,90.5,78.0,156.6
+"San Francisco, CA",Computer Hardware Engineers,172920.0,5090,90.5,78.0,156.6
+"Seattle, WA",Computer and Information Systems Managers,212450.0,13900,78.9,58.1,172.9
+"Seattle, WA",Computer and Mathematical Occupations,147300.0,161820,78.9,58.1,172.9
+"Seattle, WA",Computer Systems Analysts,132580.0,13940,78.9,58.1,172.9
+"Seattle, WA",Information Security Analysts,152660.0,4490,78.9,58.1,172.9
+"Seattle, WA",Computer and Information Research Scientists,232120.0,2070,78.9,58.1,172.9
+"Seattle, WA",Computer Network Support Specialists,97200.0,2070,78.9,58.1,172.9
+"Seattle, WA",Computer User Support Specialists,73230.0,13510,78.9,58.1,172.9
+"Seattle, WA",Computer Network Architects,166880.0,3370,78.9,58.1,172.9
+"Seattle, WA",Database Administrators,133310.0,1380,78.9,58.1,172.9
+"Seattle, WA",Database Architects,155880.0,**,78.9,58.1,172.9
+"Seattle, WA",Network and Computer Systems Administrators,106920.0,5950,78.9,58.1,172.9
+"Seattle, WA",Computer Programmers,167970.0,**,78.9,58.1,172.9
+"Seattle, WA",Software Developers,169340.0,72730,78.9,58.1,172.9
+"Seattle, WA",Software Quality Assurance Analysts and Testers,131640.0,7300,78.9,58.1,172.9
+"Seattle, WA",Web Developers,120750.0,3420,78.9,58.1,172.9
+"Seattle, WA","Computer Occupations, All Other",134230.0,10400,78.9,58.1,172.9
+"Seattle, WA",Operations Research Analysts,107360.0,1990,78.9,58.1,172.9
+"Seattle, WA",Data Scientists,157290.0,6100,78.9,58.1,172.9
+"Seattle, WA",Computer Hardware Engineers,174070.0,1150,78.9,58.1,172.9
+"Tampa, FL",Computer and Information Systems Managers,166470.0,5860,71.1,45.8,147.6
+"Tampa, FL",Computer and Mathematical Occupations,99510.0,51750,71.1,45.8,147.6
+"Tampa, FL",Computer Systems Analysts,102120.0,7350,71.1,45.8,147.6
+"Tampa, FL",Information Security Analysts,104260.0,2770,71.1,45.8,147.6
+"Tampa, FL",Computer and Information Research Scientists,127430.0,150,71.1,45.8,147.6
+"Tampa, FL",Computer Network Support Specialists,76070.0,1120,71.1,45.8,147.6
+"Tampa, FL",Computer User Support Specialists,57150.0,7400,71.1,45.8,147.6
+"Tampa, FL",Computer Network Architects,129740.0,1360,71.1,45.8,147.6
+"Tampa, FL",Database Administrators,100770.0,600,71.1,45.8,147.6
+"Tampa, FL",Database Architects,130630.0,370,71.1,45.8,147.6
+"Tampa, FL",Network and Computer Systems Administrators,97220.0,3540,71.1,45.8,147.6
+"Tampa, FL",Computer Programmers,97140.0,680,71.1,45.8,147.6
+"Tampa, FL",Software Developers,126380.0,14520,71.1,45.8,147.6
+"Tampa, FL",Software Quality Assurance Analysts and Testers,88530.0,3020,71.1,45.8,147.6
+"Tampa, FL",Web Developers,82060.0,650,71.1,45.8,147.6
+"Tampa, FL","Computer Occupations, All Other",87670.0,4070,71.1,45.8,147.6
+"Tampa, FL",Operations Research Analysts,81550.0,1570,71.1,45.8,147.6
+"Tampa, FL",Data Scientists,112310.0,1640,71.1,45.8,147.6
+"Tampa, FL",Computer Hardware Engineers,100720.0,470,71.1,45.8,147.6
+"Tucson, AZ",Computer and Information Systems Managers,147240.0,1630,63.1,31.6,133.1
+"Tucson, AZ",Computer and Mathematical Occupations,96150.0,12310,63.1,31.6,133.1
+"Tucson, AZ",Computer Systems Analysts,96970.0,850,63.1,31.6,133.1
+"Tucson, AZ",Information Security Analysts,88520.0,590,63.1,31.6,133.1
+"Tucson, AZ",Computer and Information Research Scientists,58090.0,60,63.1,31.6,133.1
+"Tucson, AZ",Computer Network Support Specialists,62300.0,110,63.1,31.6,133.1
+"Tucson, AZ",Computer User Support Specialists,57520.0,2030,63.1,31.6,133.1
+"Tucson, AZ",Computer Network Architects,105490.0,270,63.1,31.6,133.1
+"Tucson, AZ",Database Administrators,86480.0,140,63.1,31.6,133.1
+"Tucson, AZ",Database Architects,100450.0,80,63.1,31.6,133.1
+"Tucson, AZ",Network and Computer Systems Administrators,90910.0,910,63.1,31.6,133.1
+"Tucson, AZ",Computer Programmers,98260.0,110,63.1,31.6,133.1
+"Tucson, AZ",Software Developers,114230.0,5500,63.1,31.6,133.1
+"Tucson, AZ",Software Quality Assurance Analysts and Testers,99300.0,250,63.1,31.6,133.1
+"Tucson, AZ","Computer Occupations, All Other",100130.0,420,63.1,31.6,133.1
+"Tucson, AZ",Operations Research Analysts,75610.0,80,63.1,31.6,133.1
+"Tucson, AZ",Data Scientists,83930.0,360,63.1,31.6,133.1
+"Tucson, AZ",Computer Hardware Engineers,123900.0,100,63.1,31.6,133.1
+"Urban Honolulu, HI",Computer and Information Systems Managers,138900.0,1230,86.9,57.4,103.5
+"Urban Honolulu, HI",Computer and Mathematical Occupations,97320.0,11620,86.9,57.4,103.5
+"Urban Honolulu, HI",Computer Systems Analysts,87070.0,1650,86.9,57.4,103.5
+"Urban Honolulu, HI",Information Security Analysts,123320.0,520,86.9,57.4,103.5
+"Urban Honolulu, HI",Computer and Information Research Scientists,140150.0,80,86.9,57.4,103.5
+"Urban Honolulu, HI",Computer Network Support Specialists,82170.0,450,86.9,57.4,103.5
+"Urban Honolulu, HI",Computer User Support Specialists,59150.0,1980,86.9,57.4,103.5
+"Urban Honolulu, HI",Computer Network Architects,114590.0,380,86.9,57.4,103.5
+"Urban Honolulu, HI",Database Administrators,93400.0,100,86.9,57.4,103.5
+"Urban Honolulu, HI",Database Architects,149500.0,60,86.9,57.4,103.5
+"Urban Honolulu, HI",Network and Computer Systems Administrators,100000.0,1870,86.9,57.4,103.5
+"Urban Honolulu, HI",Computer Programmers,108040.0,**,86.9,57.4,103.5
+"Urban Honolulu, HI",Software Developers,118630.0,1630,86.9,57.4,103.5
+"Urban Honolulu, HI",Software Quality Assurance Analysts and Testers,119530.0,160,86.9,57.4,103.5
+"Urban Honolulu, HI",Web Developers,94000.0,**,86.9,57.4,103.5
+"Urban Honolulu, HI","Computer Occupations, All Other",112050.0,1750,86.9,57.4,103.5
+"Urban Honolulu, HI",Operations Research Analysts,97630.0,110,86.9,57.4,103.5
+"Urban Honolulu, HI",Data Scientists,123950.0,220,86.9,57.4,103.5
+"Urban Honolulu, HI",Computer Hardware Engineers,140150.0,110,86.9,57.4,103.5
+"Washington, DC-VA-MD",Computer and Information Systems Managers,191880.0,20770,78.7,66.9,144.5
+"Washington, DC-VA-MD",Computer and Mathematical Occupations,131890.0,234060,78.7,66.9,144.5
+"Washington, DC-VA-MD",Computer Systems Analysts,126170.0,17720,78.7,66.9,144.5
+"Washington, DC-VA-MD",Information Security Analysts,138410.0,15870,78.7,66.9,144.5
+"Washington, DC-VA-MD",Computer and Information Research Scientists,156360.0,3150,78.7,66.9,144.5
+"Washington, DC-VA-MD",Computer Network Support Specialists,86730.0,6070,78.7,66.9,144.5
+"Washington, DC-VA-MD",Computer User Support Specialists,75250.0,17710,78.7,66.9,144.5
+"Washington, DC-VA-MD",Computer Network Architects,163570.0,8910,78.7,66.9,144.5
+"Washington, DC-VA-MD",Database Administrators,124160.0,3470,78.7,66.9,144.5
+"Washington, DC-VA-MD",Database Architects,188120.0,6710,78.7,66.9,144.5
+"Washington, DC-VA-MD",Network and Computer Systems Administrators,124050.0,11280,78.7,66.9,144.5
+"Washington, DC-VA-MD",Computer Programmers,103580.0,4090,78.7,66.9,144.5
+"Washington, DC-VA-MD",Software Developers,150880.0,68210,78.7,66.9,144.5
+"Washington, DC-VA-MD",Software Quality Assurance Analysts and Testers,126430.0,8740,78.7,66.9,144.5
+"Washington, DC-VA-MD",Web Developers,126040.0,3620,78.7,66.9,144.5
+"Washington, DC-VA-MD","Computer Occupations, All Other",144040.0,35080,78.7,66.9,144.5
+"Washington, DC-VA-MD",Operations Research Analysts,124090.0,7610,78.7,66.9,144.5
+"Washington, DC-VA-MD",Data Scientists,135190.0,8530,78.7,66.9,144.5
+"Washington, DC-VA-MD",Computer Hardware Engineers,153340.0,2060,78.7,66.9,144.5
